@@ -1,3 +1,3 @@
 # aslab-recruitment
-In this project, my team and I created a web-based application called the Computer Laboratory Assistant Recruitment Information System. This project is my first project and was made for the recruitment needs of computer lab assistants at the Faculty of Science and Technology, North Sumatra State Islamic University. 
+In this project, my team and I created a web-based application called the Computer Laboratory Assistant Recruitment Information System. This project is my first project and was made for the recruitment needs of computer lab assistants at the Faculty of Science and Technology, State Islamic University of North Sumatra. 
 In this project, I act as a system analyst whose job is to collect draft requirements from users, make system requierement analysis, make application modeling (flow, diagram, features) and provide technical guidance to the development team regarding system development to match the expected results.
