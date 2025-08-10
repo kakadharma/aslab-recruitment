@@ -20,3 +20,4 @@ Memahami metode analisis sistem, merancang requirement yang implementable, membu
 
 ## 📎 Dokumentasi
 - [📄 PDF](docs/dokumentasi-proyek-rekrutmen-aslab.pdf)
+- [📊 Diagram](docs/diagram/diagram)
