@@ -19,5 +19,6 @@
 Memahami metode analisis sistem, merancang requirement yang implementable, membuat dokumentasi teknis yang jelas, dan meningkatkan komunikasi lintas tim.
 
 ## 📎 Dokumentasi
-- [📄 PDF](docs/dokumentasi-proyek-rekrutmen-aslab.pdf)
+- [📋 Dokumentasi System Analyst](docs/dokumentasi-proyek-rekrutmen-aslab.pdf)
+- [📄 Laporan Resmi Sistem Informasi](docs/laporan-sisfo.pdf) 
 - [📊 Diagram](docs/diagram)
